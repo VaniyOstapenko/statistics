@@ -1,0 +1,266 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-style: normal;
+}
+
+body {
+    background: #797979;
+}
+
+.wrapper-1 {
+    background: #2C2D33;
+    box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.1);
+    border-radius: 6px;
+    width: 430px;
+    height: 448px;
+    margin: auto;
+}
+
+h2 {
+    font-style: normal;
+    font: 600 16px 'Roboto';
+    color: #828282;
+    padding: 28px 0 0 45px;
+
+}
+
+h1 {
+    padding: 4px 0 0 45px;
+    font: 500 40px 'Roboto';
+    color: #FFFFFF;
+    font-style: normal;
+
+}
+
+h3 {
+    padding: 4px 0 0 45px;
+    font: 400 14px 'Roboto';
+    color: #FFFFFF;
+    font-style: normal;
+}
+
+.line {
+    width: 430px;
+    height: 2px;
+    background-color: #4F4F4F;
+    margin-top: 27px;
+}
+
+.img {
+    background-image: url(./Group\ 2281.svg);
+    width: 364px;
+    height: 197px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin: 18px 0 0 29px;
+}
+
+.item {
+    background-color: #63ABFD;
+    width: 21px;
+    height: 8px;
+}
+
+p {
+    font-style: normal;
+    font: 400 12px 'Inter';
+    color: #FFFFFF;
+    margin-left: 9px;
+}
+
+.flex {
+    display: flex;
+    margin: 45px 0 0 72px;
+    align-items: center;
+}
+
+.wrapper-2 {
+    background: #FFFFFF;
+    box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.1);
+    border-radius: 6px;
+    width: 430px;
+    height: 400px;
+    margin: 86px auto;
+
+}
+
+.h2 {
+
+    font: 600 16px 'Roboto';
+    color: #828282;
+    padding: 28px 0 0 45px;
+    font-style: normal;
+}
+
+.h1 {
+    font: 500 40px 'Roboto';
+    color: #0B1354;
+    padding: 4px 0 0 45px;
+    font-style: normal;
+}
+
+.h3 {
+    font: 400 14px 'Roboto';
+    color: #4F4F4F;
+    padding: 4px 0 0 45px;
+    font-style: normal;
+}
+
+.line2 {
+    width: 430px;
+    height: 2px;
+    background-color: #ECECEC;
+    margin-top: 27.14px;
+}
+
+.img2 {
+    background-image: url(./Group\ 2280.svg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 278.6px;
+    height: 278.6px;
+}
+
+.globalflex {
+    display: flex;
+}
+
+.item0 {
+    background-color: #165BAA;
+    width: 21px;
+    height: 8px;
+}
+
+.item01 {
+    background-color: #F765A3;
+    width: 21px;
+    height: 8px;
+}
+
+.item02 {
+    background-color: #16BFD6;
+    width: 21px;
+    height: 8px;
+}
+
+.product-wrapper {
+    margin-top: 50px;
+}
+
+.text1,
+.text2,
+.text3 {
+    color: #4F4F4F
+}
+
+
+.prod1 {
+    display: flex;
+    align-items: center;
+}
+
+.prod2 {
+    display: flex;
+    align-items: center;
+}
+
+.prod3 {
+    display: flex;
+    align-items: center;
+}
+
+
+.wrapper-3 {
+    background: #2C2D33;
+    box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.1);
+    border-radius: 6px;
+    width: 430px;
+    height: 448px;
+    margin: 96px auto;
+}
+
+.h22 {
+    font-style: normal;
+    font: 600 16px 'Roboto';
+    color: #828282;
+    padding: 28px 0 0 45px;
+
+}
+
+.h11 {
+    font-style: normal;
+    font: 500 40px 'Roboto';
+    color: #FFFFFF;
+    padding: 6px 0 0 45px;
+}
+
+.h33 {
+    font-style: normal;
+    font: 400 14px 'Roboto';
+    color: #FFFFFF;
+    padding: 6px 0 0 45px;
+}
+
+.line3 {
+    width: 430px;
+    background-color: #4F4F4F;
+    height: 2px;
+    margin-top: 23px;
+}
+
+.img3 {
+    background-image: url(./Group\ 2294.svg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    Width: 365.47px;
+    Height: 197px;
+    margin: 18px 0 0 29px;
+    ;
+}
+
+p {
+    font-style: normal;
+    font: 400 12px 'Inter';
+    color: #FFFFFF;
+}
+
+.item1 {
+    background-color: #63ABFD;
+    width: 21px;
+    height: 8px;
+}
+
+.item2 {
+    background-color: #A155B9;
+    width: 21px;
+    height: 8px;
+}
+
+.item3 {
+    background-color: #F765A3;
+    width: 21px;
+    height: 8px;
+}
+
+.flex3 {
+    display: flex;
+    margin: 45px 0 0 72px;
+    align-items: center;
+}
+
+.p1 {
+    font-style: normal;
+    font: 400 12px 'Inter';
+    color: #FFFFFF;
+    margin-left: 9px;
+    margin-right: 13px;
+}
+
+.p2 {
+    font-style: normal;
+    font: 400 12px 'Inter';
+    color: #FFFFFF;
+    margin-left: 9px;
+    margin-right: 14px;
+}
